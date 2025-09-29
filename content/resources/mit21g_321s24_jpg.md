@@ -9,8 +9,9 @@ image_metadata:
   caption: 'A project assignment in this course is based around a work of art by a
     Francophone artist related to childhood, such as the painting *L''Enfant et les
     jouets (Gabrielle et Jean, fils de Renoir)* by Pierre August Renoir shown here.
-    (Image courtesy of the National Gallery of Art, Washington, DC. Source: {{% resource_link
-    "083e12f3-b964-4ee7-8030-b762ee7e5697" "Wikimedia Commons" %}}. License: CC0 1.0.)'
+    (Image courtesy of the National Gallery of Art, Washington, DC. Source: [Wikimedia
+    Commons](https://commons.wikimedia.org/wiki/File:Auguste_Renoir,_Child_with_Toys_-_Gabrielle_and_the_Artist%27s_Son,_Jean,_1895-1896,_NGA_66434.jpg).
+    License: CC0 1.0.)'
   credit: ''
   image-alt: A young brunette woman in a peach blouse sits at a table with a golden-haired
     child wearing a white smock; they are playing with toy figurines including a rooster,
