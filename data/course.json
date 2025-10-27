@@ -33,7 +33,7 @@
     "website": "childhood-and-youth-in-french-and-francophone-cultures"
   },
   "course_title": "Childhood and Youth in French and Francophone Cultures",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course studies the transformation of childhood and youth since the 18th century in France and the development of sentimentality within the family in a francophone context. We will examine the personification of children as a source of inspiration for artistic creation and a political ideal aimed at protecting future generations, and consider various representations of childhood and youth in literature, movies, and songs.\n\nThe course is taught entirely in French.\n\nAbout the instructor: Bruno Perreau is the Cynthia L. Reed Professor of French Studies at MIT and Director of MIT\u2019s Center of Excellence in French Studies. He is also an Affiliate Faculty at the Center for European Studies, Harvard University.\n\nPerreau recently published *The Politics of Adoption: Gender and the Making of French Citizenship* (MIT Press, 2014), *Queer Theory: The French Response* (Stanford University Press, 2016), *Les D\u00e9fis de la R\u00e9publique* (ed. with Joan W. Scott, Presses de Sciences Po, 2017), *Qui a peur de la th\u00e9orie queer ?* (Presses de Sciences Po, 2018), and *Sph\u00e8res d\u2019injustice. Pour un universalisme minoritaire* (La D\u00e9couverte, 2023).",
   "department_numbers": [
     "21G"
@@ -44,7 +44,6 @@
     "content": "",
     "website": "childhood-and-youth-in-french-and-francophone-cultures"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Readings",
     "Written Assignments",
