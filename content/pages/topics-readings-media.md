@@ -15,7 +15,7 @@ L’objectif du cours est de découvrir la diversité des représentations de l�
 
 Tour de table et programme du semestre
 
-Victor Hugo, « [Lorsque l’enfant paraît](https://fr.wikisource.org/wiki/Les_Feuilles_d%E2%80%99automne/%C2%AB_Lorsque_l%E2%80%99enfant_para%C3%AEt_%C2%BB) » *Les Feuilles d’automne* (1831).
+Victor Hugo, « {{% resource_link "49175247-82d5-4639-9952-d76a8625afff" "Lorsque l’enfant paraît" %}} » *Les Feuilles d’automne* (1831).
 
 Philippe Ariès, *L’Enfant et la Vie familiale sous l’Ancien régime* (1975), pp. 44–50. ISBN : 9782020042352. Extrait : « Au cours du XVII° siècle … et s'y attarder longtemps. » 
 
@@ -33,7 +33,7 @@ Françoise Dolto, *La Cause des enfants* (1985), pp. 474–476. ISBN : 978226617
 
 #### Classe 3 : Entre deux âges
 
-Arthur Rimbaud, [*Roman*](https://arthurvoonwenghong.wordpress.com/2006/09/11/arthur-rimbaud-roman-romance/) (1870).
+Arthur Rimbaud, {{% resource_link "20bde1cd-b3c2-4cce-8b23-e6201d2876d2" "*Roman*" %}} (1870).
 
 Raymond Radiguet, *Le Diable au corps* (1923). ISBN : 9782266011396. Extrait : « Moi que redoutais par-dessus tout le moment … lequel était le pire? » 
 
@@ -43,7 +43,7 @@ Camara Laye, *L’Enfant noir* (1953), pp. 210–221. ISBN : 9781853994081.
 
 Annie Ernaux, *La Place* (1983), pp. 64–95. ISBN : 9782701162867. Extrait : « Enfant, quand je m'efforçais… 'Nous, on n'a plus besoin de grand-chose.' » 
 
-Film : Lukas Dhont, [*Close*](https://www.allocine.fr/film/fichefilm_gen_cfilm=294372.html) (2022)
+Film : Lukas Dhont, {{% resource_link "eb04fd3b-c6b6-4516-87b7-0ae1c2426414" "*Close*" %}} (2022)
 
 ### 2e Partie : Vivre l'enfance
 
@@ -51,11 +51,11 @@ L’enfance est souvent associée au jeu, à la liberté et aux soins parentaux.
 
 #### Classe 5 : Grandir à plusieurs
 
-Anatole France, [*Le Livre de mon ami*](https://fr.wikisource.org/wiki/Page:Anatole_France_-_Le_Livre_de_mon_ami.djvu/43) (1885), pp. 35–43. 
+Anatole France, {{% resource_link "fc19f88d-c7fc-40d7-bb0e-f207b87b1ca7" "*Le Livre de mon ami*" %}} (1885), pp. 35–43. 
 
 Marie Desplechin, *Le Sac à dos d'Alphonse* (1993), pp. 17–19, 80–83, 92–95, et 104–105. ISBN : 9782211037426.
 
-Charles Perrault, "[Le Petit Poucet](https://fr.wikisource.org/wiki/Le_monde_enchant%C3%A9/Le_Petit-Poucet)," en [*Le Monde enchanté*](https://fr.wikisource.org/wiki/Le_Monde_enchant%C3%A9), Firmin-Didot (1883), pp. 29–41.
+Charles Perrault, "{{% resource_link "9f7789bb-08c8-4642-8643-c4c497b061b8" "Le Petit Poucet" %}}," en {{% resource_link "1ba3aa5d-a51e-49dc-abe9-12cae0f402b2" "*Le Monde enchanté*" %}}, Firmin-Didot (1883), pp. 29–41.
 
 #### Pas de cours :
 
@@ -63,15 +63,15 @@ Remise du plan explicatif du projet vidéo
 
 #### Classe 6 : La quête de l’identité
 
-« [Le premier “bébé-médicament” français est né](https://www.lemonde.fr/societe/article/2011/02/07/le-premier-bebe-medicament-francais-est-ne_1476586_3224.html) », *Le Monde*, 7 février 2011.
+« {{% resource_link "ffd0719d-bab8-4143-9355-7261fa1cf9da" "Le premier “bébé-médicament” français est né" %}} », *Le Monde*, 7 février 2011.
 
-Film : Céline Sciamma, [*Tomboy*](https://www.allocine.fr/film/fichefilm_gen_cfilm=188840.html) (2011).
+Film : Céline Sciamma, {{% resource_link "1b62d74c-6180-477c-836c-865dbedd01b9" "*Tomboy*" %}} (2011).
 
 #### Classe 7 : La solitude de l’enfance
 
-Jean-Paul Sartre, [*L’Enfance d’un chef*](https://lcp.gallimard.fr/en/products/l-enfance-d-un-chef-889a31c5-ecfa-4821-98da-b8406f745a0a) (1939), pp. 7–10, 74–77, et 103–104.
+Jean-Paul Sartre, {{% resource_link "406eb02a-7e8f-4b0d-bcd4-9997f78036e5" "*L’Enfance d’un chef*" %}} (1939), pp. 7–10, 74–77, et 103–104.
 
-Film : François Truffaut, [*Les Quatre Cent Coups*](https://www.allocine.fr/film/fichefilm_gen_cfilm=62178.html) (1959).
+Film : François Truffaut, {{% resource_link "a1fd9f54-e97b-40d4-a878-938476eb3931" "*Les Quatre Cent Coups*" %}} (1959).
 
 ### 3e Partie : Les Adultes et la force de l'enfance
 
@@ -79,9 +79,9 @@ La production de l’enfance est en partie rétrospective. Ce sont les adultes q
 
 #### Classe 8 : Éduquer
 
-Jean-Jacques Rousseau, *Émile ou de l’éducation* (1862). Extrait : « Nous naissons faibles, nous avons besoin de force … L'education n'est certainement qu'une habitude. » \[[Read on Google Books](https://www.google.com/books/edition/Emile/zfEwis81wREC?hl=en)\]
+Jean-Jacques Rousseau, *Émile ou de l’éducation* (1862). Extrait : « Nous naissons faibles, nous avons besoin de force … L'education n'est certainement qu'une habitude. » \[{{% resource_link "6a7553ae-f476-4707-ac53-417c5cc02cf1" "Read on Google Books" %}}\]
 
-Film : Nicolas Philibert, [*Être et Avoir*](https://www.allocine.fr/film/fichefilm_gen_cfilm=35962.html) (2002).
+Film : Nicolas Philibert, {{% resource_link "ca06edba-cd17-403f-be5d-c1b8eb2eadf7" "*Être et Avoir*" %}} (2002).
 
 #### Classe 9 : Transmettre
 
@@ -89,13 +89,13 @@ Nathalie Sarraute, *Enfance,* Gallimard (1983), pp. 218–219 et 272–277. ISBN
 
 Hervé Guibert, *Mes parents*, Gallimard (1986), pp. 32–35, 120–121 et 148–149. ISBN : 9782070706570.
 
-Benjamin Biolay, « Ton héritage » Album : La Superbe, 2009. \[[Lyrics](https://www.google.com/search?q=ton+heritage+lyrics)\]\[[YouTube](https://youtu.be/xtmVTfGJUzA?si=YyKo7Vw3vwVkkqNY)\]
+Benjamin Biolay, « Ton héritage » Album : La Superbe, 2009. \[{{% resource_link "4efc7b3f-4ec5-4cb2-851d-6f18a8f0e4c3" "Lyrics" %}}\]\[{{% resource_link "e8f220f1-42fe-4359-b71b-b257af279d8b" "YouTube" %}}\]
 
 #### Classe 10 : L’enfance perdue
 
 Marcel Proust, *Du côté de chez Swann* (1913). Extrait : « Quand d’un passé ancien rien ne subsiste … de ma tasse de thé. »
 
-Barbara, « Mon enfance » Album : Le Soleil Noir, 1968. \[[Lyrics](https://www.google.com/search?q=Barbara%2C+%C2%AB+Mon+enfance+%C2%BB+lyrics)\] \[[YouTube](https://youtu.be/T4pS5XAnzh4?si=WmWF8l8rPdykFTD9)\]
+Barbara, « Mon enfance » Album : Le Soleil Noir, 1968. \[{{% resource_link "f7d8d8f5-a281-4bee-826d-9e85475279ed" "Lyrics" %}}\] \[{{% resource_link "8001256d-9d8b-4829-9731-6fb8da918714" "YouTube" %}}\]
 
 Philippe Forest, *L’Enfant éternel* (1997), pp. 228–229, 383–385, 392.
 
@@ -105,4 +105,4 @@ Philippe Forest, *L’Enfant éternel* (1997), pp. 228–229, 383–385, 392.
 
 Manon Pignot, *La Guerre des crayons* (2004). ISBN : 9782840963554.
 
-Film : Louis Malle, [*Au revoir les enfants*](https://www.allocine.fr/film/fichefilm_gen_cfilm=2725.html) (1987).
+Film : Louis Malle, {{% resource_link "db88a656-8492-4fc9-94b6-6085504551d7" "*Au revoir les enfants*" %}} (1987).
